@@ -1,5 +1,7 @@
 {
-  "common/index.js": "common/index-ac3d97c70f.js",
-  "plugin/bootstrap.js": "plugin/bootstrap-18f8dfad7e.js",
-  "plugin/jquery-3.0.0.js": "plugin/jquery-3-efd27a7113.0.0.js"
+  "common/colorPickerHSLA/colorPickerHSLA.js": "common/colorPickerHSLA/colorPickerHSLA-4c53c61b97.js",
+  "common/index.js": "common/index-89e70f351a.js",
+  "plugin/bootstrap/bootstrap.js": "plugin/bootstrap/bootstrap-18f8dfad7e.js",
+  "plugin/jquery-ui/jquery-ui.js": "plugin/jquery-ui/jquery-ui-cb9abfc1c5.js",
+  "plugin/jquery/jquery-3.0.0.js": "plugin/jquery/jquery-3-efd27a7113.0.0.js"
 }

@@ -1,4 +1,7 @@
 {
-  "common/index.css": "common/index-6d881284d7.css",
-  "plugin/bootstrap.css": "plugin/bootstrap-4f4491cb03.css"
+  "common/colorPickerHSLA/colorPickerHSLA.css": "common/colorPickerHSLA/colorPickerHSLA-b7c3768fdf.css",
+  "common/index.css": "common/index-beeba9c02d.css",
+  "plugin/animate/animate.css": "plugin/animate/animate-a4f190d176.css",
+  "plugin/bootstrap/bootstrap.css": "plugin/bootstrap/bootstrap-7ef4361a7b.css",
+  "plugin/jquery-ui/jquery-ui.css": "plugin/jquery-ui/jquery-ui-7c57ddc9f9.css"
 }
