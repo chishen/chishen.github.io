@@ -1,7 +1,14 @@
 {
   "common/colorPickerHSLA/colorPickerHSLA.js": "common/colorPickerHSLA/colorPickerHSLA-4c53c61b97.js",
-  "common/index.js": "common/index-89e70f351a.js",
+  "common/colorPickerRGB/colorPickerRGB.js": "common/colorPickerRGB/colorPickerRGB-b12d7cb52e.js",
+  "common/index.js": "common/index-da23baa73d.js",
+  "plugin/ScrollMagic/ScrollMagic.min.js": "plugin/ScrollMagic/ScrollMagic-28f4bd4b08.min.js",
   "plugin/bootstrap/bootstrap.js": "plugin/bootstrap/bootstrap-18f8dfad7e.js",
+  "plugin/circle-progress/circle-progress.js": "plugin/circle-progress/circle-progress-495f578398.js",
+  "plugin/echarts/china.js": "plugin/echarts/china-dbe6211479.js",
+  "plugin/filters/filters.js": "plugin/filters/filters-b1459917c8.js",
+  "plugin/fresco/fresco.js": "plugin/fresco/fresco-0808d32c3a.js",
   "plugin/jquery-ui/jquery-ui.js": "plugin/jquery-ui/jquery-ui-cb9abfc1c5.js",
-  "plugin/jquery/jquery-3.0.0.js": "plugin/jquery/jquery-3-efd27a7113.0.0.js"
+  "plugin/jquery/jquery-3.0.0.js": "plugin/jquery/jquery-3-efd27a7113.0.0.js",
+  "plugin/sHover/sHover.min.js": "plugin/sHover/sHover-c110ba425d.min.js"
 }

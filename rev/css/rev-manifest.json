@@ -1,7 +1,9 @@
 {
-  "common/colorPickerHSLA/colorPickerHSLA.css": "common/colorPickerHSLA/colorPickerHSLA-b7c3768fdf.css",
-  "common/index.css": "common/index-beeba9c02d.css",
-  "plugin/animate/animate.css": "plugin/animate/animate-a4f190d176.css",
-  "plugin/bootstrap/bootstrap.css": "plugin/bootstrap/bootstrap-7ef4361a7b.css",
-  "plugin/jquery-ui/jquery-ui.css": "plugin/jquery-ui/jquery-ui-7c57ddc9f9.css"
+  "common/colorPickerHSLA/colorPickerHSLA.css": "common/colorPickerHSLA/colorPickerHSLA-5fcd43892f.css",
+  "common/colorPickerRGB/colorPickerRGB.css": "common/colorPickerRGB/colorPickerRGB-278a60f082.css",
+  "common/index.css": "common/index-d7e5fadffd.css",
+  "plugin/animate/animate.css": "plugin/animate/animate-d2d8f45fce.css",
+  "plugin/bootstrap/bootstrap.css": "plugin/bootstrap/bootstrap-c02fb2f6d8.css",
+  "plugin/fresco/fresco.css": "plugin/fresco/fresco-022f2722b9.css",
+  "plugin/jquery-ui/jquery-ui.css": "plugin/jquery-ui/jquery-ui-79d734a4a7.css"
 }
