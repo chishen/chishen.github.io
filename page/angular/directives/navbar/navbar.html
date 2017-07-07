@@ -1,0 +1,50 @@
+<style>.navbar{
+    width: 200px;
+    background: #3a3f51;
+    border-radius: 0;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+}
+.navbar > ul{
+    /*overflow-y: auto;*/
+    margin: 0;
+}
+.navbar > ul li{
+    height: 40px;
+    line-height: 20px;
+}
+.navbar > ul li a{
+    color: #b4b6bd;
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.navbar > ul li a:hover{
+    background: #32374a;
+    color: #fff;
+    cursor: pointer;
+}
+.navbar > ul > li .glyphicon-stats{
+    width: 20px;
+    line-height: 20px;
+    margin-right: 10px;
+}
+.navbar > ul > li .glyphicon-menu-right,
+.navbar > ul > li .glyphicon-menu-down{
+    /*color: #8b8e99;*/
+    float: right;
+    line-height: 20px;
+    font-size: 12px;
+}
+.navbar > ul > ul{
+    display: none;
+}
+.navbar > ul > ul li{
+    list-style: none;
+}
+.navbar > ul > ul li a{
+    padding-left: 50px;
+}</style><!--<section class="navbar">--><!--<ul>--><!--<li><a ui-sref="index.companySimple"><span class="glyphicon glyphicon-stats"></span>简查企业</a></li>--><!--<li class="navbarLi navbarActive"><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>高级搜索<span class="glyphicon glyphicon-menu-right"></span></a></li>--><!--<ul>--><!--<li><a ui-sref="index.advancedSearch">高级检索</a></li>--><!--<li><a ui-sref="">企业批量查找</a></li>--><!--<li><a ui-sref="">关联人批量查找</a></li>--><!--</ul>--><!--<li><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>精确找人</a></li>--><!--<li><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>关联挖掘</a></li>--><!--<li><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>关联群组</a></li>--><!--<li class="navbarLi"><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>变更监控<span class="glyphicon glyphicon-menu-right"></span></a></li>--><!--<ul>--><!--<li><a ui-sref="">企业监控</a></li>--><!--<li><a ui-sref="">关联人监控</a></li>--><!--</ul>--><!--<li class="navbarLi"><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>个人中心<span class="glyphicon glyphicon-menu-right"></span></a></li>--><!--<ul>--><!--<li><a ui-sref="">账户信息</a></li>--><!--<li><a ui-sref="">账户管理</a></li>--><!--<li><a ui-sref="">我的收藏</a></li>--><!--<li><a ui-sref="">查询历史</a></li>--><!--<li><a ui-sref="">我的报告</a></li>--><!--<li><a ui-sref="">我的消息</a></li>--><!--</ul>--><!--</ul>--><!--</section>--><section class="navbar"><ul ng-repeat="x in navbar.navbarDatas"><li><a ui-sref="{{x.url}}"><span class="glyphicon" ng-class="x.logo"></span>{{x.name}}</a></li><!--<li class="navbarActive"><a ui-sref="index.advancedSearch"><span class="glyphicon glyphicon-stats"></span>高级搜索</a></li>--><!--<li><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>精确找人</a></li>--><!--<li><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>关联挖掘</a></li>--><!--<li><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>关联群组</a></li>--><!--<li><a ui-sref=""><span class="glyphicon glyphicon-stats"></span>变更监控</a></li>--></ul></section>

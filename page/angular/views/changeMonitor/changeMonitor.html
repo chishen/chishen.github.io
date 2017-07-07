@@ -1,0 +1,25 @@
+<style>.changeMonitor{
+        width: 100%;
+        padding-left: 215px;
+        padding-top: 75px;
+        padding-right: 15px;
+    }
+    .changeMonitorTab{
+        text-align: center;
+        width: 100%;
+    }
+    .changeMonitorTab > ul{
+        list-style: none;
+        height: 40px;
+        /*width: 96%;*/
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .changeMonitorTab > ul li{
+        float: left;
+        width: 50%;
+        border: 1px solid #ff8800;
+        text-align: center;
+        line-height: 38px;
+        height: 40px;
+    }</style><section class="changeMonitor"><div style="background: #bbb;height: 1000px;color: #000"><div class="changeMonitorTab"><ul><li><a ui-sref="index.changeMonitor.companyMonitor">企业监控</a></li><li style="border-left: none"><a ui-sref="index.changeMonitor.personMonitor">关联人监控</a></li></ul></div><div ui-view></div></div></section>
