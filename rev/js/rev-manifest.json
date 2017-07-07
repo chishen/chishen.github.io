@@ -10,5 +10,6 @@
   "plugin/fresco/fresco.js": "plugin/fresco/fresco-0808d32c3a.js",
   "plugin/jquery-ui/jquery-ui.js": "plugin/jquery-ui/jquery-ui-cb9abfc1c5.js",
   "plugin/jquery/jquery-3.0.0.js": "plugin/jquery/jquery-3-efd27a7113.0.0.js",
-  "plugin/sHover/sHover.min.js": "plugin/sHover/sHover-c110ba425d.min.js"
+  "plugin/sHover/sHover.min.js": "plugin/sHover/sHover-c110ba425d.min.js",
+  "plugin/zoomcharts/zoomcharts.js": "plugin/zoomcharts/zoomcharts-b513a5f420.js"
 }
